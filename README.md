@@ -7,7 +7,7 @@ So far, all decks have been shown to be malleable in at least 2 moves, and no co
 
 This means that if you have a fully shuffled, random deck. By picking out just 2 cards and placing them somewhere else in the deck, you are able to create a new deck you ALWAYS win in.
 
-Mostly for simplicity, we assume only the situation that you are always player number 1.
+Mostly for simplicity, we assume only the situation that you are always player number 1, though changing player position DOES impact the dynamics of card swaps significantly, and this is maybe interesting for a future check.
 
 If you believe you have found such a deck, that 3 moves MUST be necessary to stack the deck in your favour, please open an issue in this repo, or comment here:
 
